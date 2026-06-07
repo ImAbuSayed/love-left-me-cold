@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-left-me-cold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get License For Love Left Me Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-left-me-cold/) |
+| **Get License** | [Music Rights & Licensing for Love Left Me Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-left-me-cold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `2ac71b93b525d7a102574cc0d6bf968da272a3b61b577fadf112713c78a95bb2` |
 | **Timestamp** | June 07, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

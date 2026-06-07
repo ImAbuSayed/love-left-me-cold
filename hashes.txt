@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Love Left Me Cold
+
+This log tracks the cryptographic history and versioning for the song **Love Left Me Cold** (love-left-me-cold).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-07T12:23:24.951970 | `v1` | `2ac71b93b525d7a102574cc0d6bf968da272a3b61b577fadf112713c78a95bb2` | `ac0014f1491fc83f180a31274c07cb97655b317ac0b7de1a3c61cd32917f33ff` | `2026-06-07_love-left-me-cold-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
