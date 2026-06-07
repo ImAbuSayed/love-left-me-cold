@@ -15,7 +15,7 @@
 | **Written On** | June 05, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/love-left-me-cold/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Request Licensing for Love Left Me Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-left-me-cold/) |
+| **Get License** | [Get License For Love Left Me Cold](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/love-left-me-cold/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> We let the embers burn down to the wire
+> You pull me in and steal my breath away
+> I feel the spark turn into something higher
+> Love left me cold, but you have made me stay
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
